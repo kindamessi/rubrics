@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+  <area id="62687">
+    <areaname>submissions</areaname>
+    <activemethod>rubric</activemethod>
+    <definitions>
+      <definition id="2535">
+        <method>rubric</method>
+        <name>Photography Rubric</name>
+        <description></description>
+        <descriptionformat>1</descriptionformat>
+        <status>20</status>
+        <timecreated>1689900774</timecreated>
+        <timemodified>1689900774</timemodified>
+        <options>{"sortlevelsasc":"1","alwaysshowdefinition":"1","showdescriptionteacher":"1","showdescriptionstudent":"1","showscoreteacher":"1","showscorestudent":"1","enableremarks":"1","showremarksstudent":"1"}</options>
+        <plugin_gradingform_rubric_definition>
+          <criteria>
+            <criterion id="10967">
+              <sortorder>1</sortorder>
+              <description>Technical Qualities (exposure, lighting, focus, white balance etc.)</description>
+              <descriptionformat>0</descriptionformat>
+              <levels>
+                <level id="41777">
+                  <score>0.00000</score>
+                  <definition>Poor</definition>
+                  <definitionformat>0</definitionformat>
+                </level>
+                <level id="41778">
+                  <score>1.00000</score>
+                  <definition>Moderate/Good</definition>
+                  <definitionformat>0</definitionformat>
+                </level>
+                <level id="41779">
+                  <score>2.00000</score>
+                  <definition>Excellent</definition>
+                  <definitionformat>0</definitionformat>
+                </level>
+              </levels>
+            </criterion>
+            <criterion id="10968">
+              <sortorder>2</sortorder>
+              <description>Composition / Design (eye movement, elements and principals of design)</description>
+              <descriptionformat>0</descriptionformat>
+              <levels>
+                <level id="41780">
+                  <score>0.00000</score>
+                  <definition>Poor</definition>
+                  <definitionformat>0</definitionformat>
+                </level>
+                <level id="41781">
+                  <score>1.00000</score>
+                  <definition>Moderate/Good</definition>
+                  <definitionformat>0</definitionformat>
+                </level>
+                <level id="41782">
+                  <score>2.00000</score>
+                  <definition>Excellent</definition>
+                  <definitionformat>0</definitionformat>
+                </level>
+              </levels>
+            </criterion>
+            <criterion id="10969">
+              <sortorder>3</sortorder>
+              <description>Communicative Properties (impact, mood, emotive reaction)</description>
+              <descriptionformat>0</descriptionformat>
+              <levels>
+                <level id="41783">
+                  <score>0.00000</score>
+                  <definition>Poor</definition>
+                  <definitionformat>0</definitionformat>
+                </level>
+                <level id="41784">
+                  <score>1.00000</score>
+                  <definition>Moderate/Good</definition>
+                  <definitionformat>0</definitionformat>
+                </level>
+                <level id="41785">
+                  <score>2.00000</score>
+                  <definition>Excellent</definition>
+                  <definitionformat>0</definitionformat>
+                </level>
+              </levels>
+            </criterion>
+            <criterion id="10970">
+              <sortorder>4</sortorder>
+              <description>Content
+(fulfilling the assignment, showing intent)</description>
+              <descriptionformat>0</descriptionformat>
+              <levels>
+                <level id="41786">
+                  <score>0.00000</score>
+                  <definition>Poor</definition>
+                  <definitionformat>0</definitionformat>
+                </level>
+                <level id="41787">
+                  <score>1.00000</score>
+                  <definition>Moderate/Good</definition>
+                  <definitionformat>0</definitionformat>
+                </level>
+                <level id="41788">
+                  <score>2.00000</score>
+                  <definition>Excellent</definition>
+                  <definitionformat>0</definitionformat>
+                </level>
+              </levels>
+            </criterion>
+            <criterion id="10971">
+              <sortorder>5</sortorder>
+              <description>Presentation (print quality, quality of display)</description>
+              <descriptionformat>0</descriptionformat>
+              <levels>
+                <level id="41789">
+                  <score>0.00000</score>
+                  <definition>Poor</definition>
+                  <definitionformat>0</definitionformat>
+                </level>
+                <level id="41790">
+                  <score>1.00000</score>
+                  <definition>Moderate/Good</definition>
+                  <definitionformat>0</definitionformat>
+                </level>
+                <level id="41791">
+                  <score>2.00000</score>
+                  <definition>Excellent</definition>
+                  <definitionformat>0</definitionformat>
+                </level>
+              </levels>
+            </criterion>
+          </criteria>
+        </plugin_gradingform_rubric_definition>
+        <instances>
+          <instance id="52463">
+            <raterid>3553</raterid>
+            <itemid>746787</itemid>
+            <rawgrade>$@NULL@$</rawgrade>
+            <status>1</status>
+            <feedback>$@NULL@$</feedback>
+            <feedbackformat>0</feedbackformat>
+            <timemodified>1697671477</timemodified>
+            <plugin_gradingform_rubric_instance>
+              <fillings>
+                <filling id="181913">
+                  <criterionid>10967</criterionid>
+                  <levelid>41779</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181914">
+                  <criterionid>10968</criterionid>
+                  <levelid>41782</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181915">
+                  <criterionid>10969</criterionid>
+                  <levelid>41785</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181916">
+                  <criterionid>10970</criterionid>
+                  <levelid>41788</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181917">
+                  <criterionid>10971</criterionid>
+                  <levelid>41791</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+              </fillings>
+            </plugin_gradingform_rubric_instance>
+          </instance>
+          <instance id="52464">
+            <raterid>3553</raterid>
+            <itemid>747012</itemid>
+            <rawgrade>$@NULL@$</rawgrade>
+            <status>1</status>
+            <feedback>$@NULL@$</feedback>
+            <feedbackformat>0</feedbackformat>
+            <timemodified>1697671487</timemodified>
+            <plugin_gradingform_rubric_instance>
+              <fillings>
+                <filling id="181918">
+                  <criterionid>10967</criterionid>
+                  <levelid>41779</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181919">
+                  <criterionid>10968</criterionid>
+                  <levelid>41782</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181920">
+                  <criterionid>10969</criterionid>
+                  <levelid>41785</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181921">
+                  <criterionid>10970</criterionid>
+                  <levelid>41788</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181922">
+                  <criterionid>10971</criterionid>
+                  <levelid>41791</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+              </fillings>
+            </plugin_gradingform_rubric_instance>
+          </instance>
+          <instance id="52465">
+            <raterid>3553</raterid>
+            <itemid>746923</itemid>
+            <rawgrade>$@NULL@$</rawgrade>
+            <status>1</status>
+            <feedback>$@NULL@$</feedback>
+            <feedbackformat>0</feedbackformat>
+            <timemodified>1697671504</timemodified>
+            <plugin_gradingform_rubric_instance>
+              <fillings>
+                <filling id="181923">
+                  <criterionid>10967</criterionid>
+                  <levelid>41778</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181924">
+                  <criterionid>10968</criterionid>
+                  <levelid>41782</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181925">
+                  <criterionid>10969</criterionid>
+                  <levelid>41785</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181926">
+                  <criterionid>10970</criterionid>
+                  <levelid>41788</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181927">
+                  <criterionid>10971</criterionid>
+                  <levelid>41791</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+              </fillings>
+            </plugin_gradingform_rubric_instance>
+          </instance>
+          <instance id="52466">
+            <raterid>3553</raterid>
+            <itemid>746937</itemid>
+            <rawgrade>$@NULL@$</rawgrade>
+            <status>1</status>
+            <feedback>$@NULL@$</feedback>
+            <feedbackformat>0</feedbackformat>
+            <timemodified>1697671514</timemodified>
+            <plugin_gradingform_rubric_instance>
+              <fillings>
+                <filling id="181928">
+                  <criterionid>10967</criterionid>
+                  <levelid>41779</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181929">
+                  <criterionid>10968</criterionid>
+                  <levelid>41782</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181930">
+                  <criterionid>10969</criterionid>
+                  <levelid>41785</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181931">
+                  <criterionid>10970</criterionid>
+                  <levelid>41788</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181932">
+                  <criterionid>10971</criterionid>
+                  <levelid>41791</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+              </fillings>
+            </plugin_gradingform_rubric_instance>
+          </instance>
+          <instance id="52467">
+            <raterid>3553</raterid>
+            <itemid>746921</itemid>
+            <rawgrade>$@NULL@$</rawgrade>
+            <status>1</status>
+            <feedback>$@NULL@$</feedback>
+            <feedbackformat>0</feedbackformat>
+            <timemodified>1697671597</timemodified>
+            <plugin_gradingform_rubric_instance>
+              <fillings>
+                <filling id="181943">
+                  <criterionid>10967</criterionid>
+                  <levelid>41779</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181944">
+                  <criterionid>10968</criterionid>
+                  <levelid>41782</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181945">
+                  <criterionid>10969</criterionid>
+                  <levelid>41785</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181946">
+                  <criterionid>10970</criterionid>
+                  <levelid>41788</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181947">
+                  <criterionid>10971</criterionid>
+                  <levelid>41791</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+              </fillings>
+            </plugin_gradingform_rubric_instance>
+          </instance>
+          <instance id="52468">
+            <raterid>3553</raterid>
+            <itemid>746253</itemid>
+            <rawgrade>$@NULL@$</rawgrade>
+            <status>1</status>
+            <feedback>$@NULL@$</feedback>
+            <feedbackformat>0</feedbackformat>
+            <timemodified>1697671562</timemodified>
+            <plugin_gradingform_rubric_instance>
+              <fillings>
+                <filling id="181933">
+                  <criterionid>10967</criterionid>
+                  <levelid>41779</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181934">
+                  <criterionid>10968</criterionid>
+                  <levelid>41781</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181935">
+                  <criterionid>10969</criterionid>
+                  <levelid>41785</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181936">
+                  <criterionid>10970</criterionid>
+                  <levelid>41788</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181937">
+                  <criterionid>10971</criterionid>
+                  <levelid>41791</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+              </fillings>
+            </plugin_gradingform_rubric_instance>
+          </instance>
+          <instance id="52469">
+            <raterid>3553</raterid>
+            <itemid>746253</itemid>
+            <rawgrade>$@NULL@$</rawgrade>
+            <status>0</status>
+            <feedback>$@NULL@$</feedback>
+            <feedbackformat>0</feedbackformat>
+            <timemodified>1697671564</timemodified>
+            <plugin_gradingform_rubric_instance>
+              <fillings>
+                <filling id="181938">
+                  <criterionid>10967</criterionid>
+                  <levelid>41779</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181939">
+                  <criterionid>10968</criterionid>
+                  <levelid>41781</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181940">
+                  <criterionid>10969</criterionid>
+                  <levelid>41785</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181941">
+                  <criterionid>10970</criterionid>
+                  <levelid>41788</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181942">
+                  <criterionid>10971</criterionid>
+                  <levelid>41791</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+              </fillings>
+            </plugin_gradingform_rubric_instance>
+          </instance>
+          <instance id="52470">
+            <raterid>3553</raterid>
+            <itemid>746921</itemid>
+            <rawgrade>$@NULL@$</rawgrade>
+            <status>0</status>
+            <feedback>$@NULL@$</feedback>
+            <feedbackformat>0</feedbackformat>
+            <timemodified>1697671598</timemodified>
+            <plugin_gradingform_rubric_instance>
+              <fillings>
+                <filling id="181948">
+                  <criterionid>10967</criterionid>
+                  <levelid>41779</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181949">
+                  <criterionid>10968</criterionid>
+                  <levelid>41782</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181950">
+                  <criterionid>10969</criterionid>
+                  <levelid>41785</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181951">
+                  <criterionid>10970</criterionid>
+                  <levelid>41788</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+                <filling id="181952">
+                  <criterionid>10971</criterionid>
+                  <levelid>41791</levelid>
+                  <remark></remark>
+                  <remarkformat>0</remarkformat>
+                </filling>
+              </fillings>
+            </plugin_gradingform_rubric_instance>
+          </instance>
+        </instances>
+      </definition>
+    </definitions>
+  </area>
+</areas>
